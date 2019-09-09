@@ -13,6 +13,7 @@ elif 25<=bmi<28:
     who,nat="偏胖","偏胖"
 elif 28<=bmi<30:
     who,nat="偏胖","肥胖"
+# test 222
 print("BMI指标为:国际{0},国内{1}".format(who,nat))
 
 ### test pull
